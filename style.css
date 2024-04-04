@@ -1,5 +1,6 @@
 marquee{
   background-color: powderblue;}
+}
 .leftimg {
     float:left; /* Выравнивание по левому краю */
     margin: 7px 7px 7px 0; /* Отступы вокруг картинки */
@@ -7,4 +8,4 @@ marquee{
 .rightimg  {
     float: right; /* Выравнивание по правому краю  */ 
     margin: 7px 0 7px 7px; /* Отступы вокруг картинки */
-   }
+    }
