@@ -13,4 +13,5 @@ marquee{
     }
 .block {
     display: block;
+    text-decoration: none;
 }
