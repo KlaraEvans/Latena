@@ -14,6 +14,7 @@ marquee{
   list-style-type: none;
   width: device-width;
   display: flex;
+  background-color: black;
 }
 #navbar a {
   background-color: #9D4CEE;
