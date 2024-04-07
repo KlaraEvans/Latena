@@ -16,8 +16,8 @@ marquee{
   display: flex;
 }
 #navbar a {
-  background-color: purple;
-  color: black;
+  background-color: #9D4CEE;
+  color: white;
   padding: 5px;
   text-decoration: none;
   font-weight: bold;
@@ -25,7 +25,7 @@ marquee{
   display: block;
 }
 #navbar li {
-  border-left: 10px solid purple;
-  border-bottom: 1px solid purple;
+  border-left: 1px solid #EE4CAB;
+  border-bottom: 1px solid #EE4CAB;
 }
 
