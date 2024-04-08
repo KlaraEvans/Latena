@@ -26,7 +26,7 @@ marquee{
   display: block;
 }
 #navbar li{
-  margin-left: 0;
+  margin-left: 10px solid transparent;
   margin-right:0;
 }
 
