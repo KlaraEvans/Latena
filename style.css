@@ -14,7 +14,6 @@ marquee{
   list-style-type: none;
   width: device-width;
   display: flex;
-  
 }
 #navbar a {
   background-color: #9D4CEE;
@@ -39,5 +38,18 @@ marquee{
   margin: 0;
   border-left: 5px solid;
 }
+.header {
+  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;
+}
 
+.content {
+  padding: 16px;
+}
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
 
